@@ -1,0 +1,47 @@
+№1
+Тест
+
+1. 
+
+1 - C
+2 - B
+3 - A
+
+2. B
+3. A
+4. D
+5. E
+
+6.
+
+1-B
+2-D
+3-C
+4-A
+5-E
+
+7.
+
+1-B
+2-A
+3-D
+4-C
+
+№2
+
+Псевдокод:
+1. Ввод первого числа (num1)
+2. Ввод второго числа (num2)
+3. Ввод третьего числа (num3)
+4. Сумма = num1 + num2 + num3
+5. Вывод суммы
+
+Код на языке JavaScript(к примеру)
+
+let num1 = parseFloat(prompt("Введите первое число:"));
+let num2 = parseFloat(prompt("Введите второе число:"));
+let num3 = parseFloat(prompt("Введите третье число:"));
+
+let sumResult = num1 + num2 + num3;
+
+console.log("Сумма трех чисел:", sumResult);
