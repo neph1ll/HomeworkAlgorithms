@@ -1,0 +1,9 @@
+Level 1
+
+test1: O(n)
+test2: O(n^2)
+
+Level 2
+
+test3: O(n log n)
+test4: O(log n)
